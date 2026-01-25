@@ -7,7 +7,7 @@
 
 ### ✨ Student Developer  |  Chief Problem Solver  |  Web Dev  |  SAP  |  AWS
 
-<kbd>My space on the web</kbd> showcasing modern web development with stunning dark aesthetics and turning imagination into reality.
+<kbd>My space on the web showcasing modern web development with stunning dark aesthetics and turning imagination into reality.</kbd>
 
 
 </div>
