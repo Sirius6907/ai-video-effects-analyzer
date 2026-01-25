@@ -1,19 +1,19 @@
-# 🌟Chandan's Portfolio
+# 🌟Chandan's AI Video Effects Analyzer
 
 <div align="center">
 
   <!-- Logo -->
-  <img src="public/images/logo.svg" alt="Portfolio Logo" width="120" height="120">
+  <img src="public/assets/images/logo.svg" alt="Portfolio Logo" width="120" height="120">
 
 ### ✨ Student Developer  |  Chief Problem Solver  |  Web Dev  |  SAP  |  AWS
 
-<kbd>My space on the web</kbd> showcasing modern web development with stunning dark aesthetics
+<kbd>My space on the web</kbd> showcasing modern web development with stunning dark aesthetics and turning imagination into reality.
 
 
 </div>
 
 ---
-# AI Video Effects Analyzer
+# Summary
 
 A comprehensive web application designed to streamline the process of analyzing, managing, and creating video effects with AI-powered capabilities, particularly for Adobe After Effects. This tool assists video professionals and enthusiasts in understanding video content, applying advanced effects, and generating interactive tutorials.
 
