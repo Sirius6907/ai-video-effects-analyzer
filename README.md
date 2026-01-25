@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Logo -->
-  <img src="public/assets/images/logo.svg" alt="Portfolio Logo" width="120" height="120">
+  <img src="public/assets/images/logo.png" alt="Portfolio Logo" width="120" height="120">
 
 ### ✨ Student Developer  |  Chief Problem Solver  |  Web Dev  |  SAP  |  AWS
 
