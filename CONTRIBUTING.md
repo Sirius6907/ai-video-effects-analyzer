@@ -1,20 +1,16 @@
-# Contributing to this Project
+# Contributing to AI Video Effects Analyzer
 
-First off, thank you for considering contributing! Projects like this thrive on community feedback and code contributions.
+We welcome contributions from the community!
 
-## 🚀 How to Contribute
+## Setup
 
-1.  **Fork the Project**: Click the 'Fork' button at the top right of this page.
-2.  **Clone your Fork**: `git clone https://github.com/Sirius6907/ai-video-effects-analyzer.git`.
-3.  **Create a Branch**: `git checkout -b feature/amazing-feature`.
-4.  **Make Changes**: Implement your feature or fix.
-5.  **Commit**: Use descriptive commit messages.
-6.  **Push**: `git push origin feature/amazing-feature`.
-7.  **Open a Pull Request**: Explain your changes and why they are valuable.
+1. Fork the repo.
+2. Install dependencies: `npm install`
+3. Set up your `.env` file based on `.env.example`.
+4. Run the development server: `npm run dev`
 
-## 🛠️ Code Standards
-- Follow the existing code style.
-- Ensure all new features are documented in the README.
+## Pull Requests
 
-## 🐛 Reporting Bugs
-Use the GitHub Issues tab to report bugs. Provide as much detail as possible.
+- Use clear and descriptive commit messages.
+- Ensure all tests pass.
+- Link to relevant issues in your PR description.
